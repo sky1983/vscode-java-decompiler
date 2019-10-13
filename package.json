@@ -19,10 +19,10 @@
     },
     "contributes": {
         "javaExtensions": [
-            "./server/dg.jdt.ls.decompiler.common-0.0.2-201802221740.jar",
-            "./server/dg.jdt.ls.decompiler.cfr-0.0.2-201802221740.jar",
-            "./server/dg.jdt.ls.decompiler.fernflower-0.0.2-201802221740.jar",
-            "./server/dg.jdt.ls.decompiler.procyon-0.0.2-201802221740.jar"
+            "./server/dg.jdt.ls.decompiler.common_0.0.2.201910131701.jar",
+            "./server/dg.jdt.ls.decompiler.cfr_0.0.2.201910131701.jar",
+            "./server/dg.jdt.ls.decompiler.fernflower_0.0.2.201910131701.jar",
+            "./server/dg.jdt.ls.decompiler.procyon_0.0.2.201910131701.jar"
         ],
         "configuration": {
             "type": "object",
